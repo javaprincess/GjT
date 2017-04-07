@@ -1,0 +1,1 @@
+{  "propertyId" : "1234",  "amount" : "500000" }
